@@ -28,3 +28,4 @@ Your metamask account should look something like this after mining the GoreliETH
 6)View your token name and address in dashboard
 ![image](https://github.com/mahi10verma/mahi10verma/assets/137199798/f3a1815d-4473-4b8a-92f7-6aed0adc0704)
 #  To see the transaction history of the token go to https://goerli.etherscan.io/ and paste your token address from 20 lab
+![image](https://github.com/mahi10verma/mahi10verma/assets/137199798/fdf5a5ec-6056-47a1-b3b6-f2c4c41bd5dc)
